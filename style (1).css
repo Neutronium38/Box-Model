@@ -1,0 +1,50 @@
+body {
+  background-color: #FFAAAA;
+  font-size: 18px;
+  font-family: "Rubik Maze", system-ui;
+}
+
+.box {
+  background-color: #AAFFAA;
+  color: #200000;
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-right: 10px;
+  font-weight: 200px;
+}
+
+.box1 {
+  background-color: #AAFFAA;
+  color: #200000;
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding-left: 50px;
+  padding-top: 25px;
+  padding-right: 20px;
+  font-weight: 100px;
+}
+
+.box:hover {
+  background-color: #AACCFF;
+  color: #999999;
+}
+
+.box1:hover {
+  background-color: #AACCFF;
+  color: #999999;
+}
+
+.Container {
+  height: 175px;
+  width: 210px;
+  background-color: #00FFFF;
+
+}
